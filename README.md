@@ -12,18 +12,18 @@ As iOS 18 introduces a variety of new features and improvements aimed at enhanci
 
 ### Leading Jailbreak Solutions for iOS 18
 
-<div align="center">
+
   
 |         |            |              |
 | ------------- |:-------------:|:-------------:| 
-| `Solution 01` | Redensa iTerminal Jailbreak      | <div style="text-align: right;">⭐⭐⭐⭐⭐⭐⭐⭐⭐   9/10 </div>| 
-| `Solution 02` | Sileem Repo Extractor      |        <div style="text-align:right display:inline;">⭐⭐⭐⭐⭐⭐⭐   7/10 </div>|   
+| `Solution 01` | Redensa iTerminal Jailbreak      | ⭐⭐⭐⭐⭐⭐⭐⭐⭐   9/10 | 
+| `Solution 02` | Sileem Repo Extractor      |       ⭐⭐⭐⭐⭐⭐⭐   7/10 |   
 | `Solution 03` | Checkra1n Mirror      | ⭐⭐⭐⭐⭐   5/10 |    
 | `Solution 04` | Unc0ver Black Edition      | ⭐⭐⭐⭐⭐⭐   6/10 |     
 | `Solution 05` | Palerain Virtual Terminal Jailbreak      | ⭐⭐⭐   3/10 |     
 | `Solution 06` | Fugu17      | ⭐⭐⭐⭐⭐   5/10 |    
 
-</div>
+
 
 Explore top iOS 18 jailbreak solutions Below, unlocking extra features and boosting performance beyond Apple's standard offerings.
 
