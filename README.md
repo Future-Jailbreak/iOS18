@@ -16,12 +16,12 @@ As iOS 18 introduces a variety of new features and improvements aimed at enhanci
   
 |         |            |  
 | ------------- |:-------------:| 
-| `Solution 01` | Redensa iTerminal Jailbreak      | 
-| `Solution 02` | Sileem Repo Extractor      |   
-| `Solution 03` | Checkra1n Mirror      |    
-| `Solution 04` | Unc0ver Black Edition      |     
-| `Solution 05` | Palerain Virtual Terminal Jailbreak      |     
-| `Solution 06` | Fugu17      |    
+| 🌟`Solution 01` | Redensa iTerminal Jailbreak      | 
+| 🌟`Solution 02` | Sileem Repo Extractor      |   
+| 🌟`Solution 03` | Checkra1n Mirror      |    
+| 🌟`Solution 04` | Unc0ver Black Edition      |     
+| 🌟`Solution 05` | Palerain Virtual Terminal Jailbreak      |     
+| 🌟`Solution 06` | Fugu17      |    
 
 </div>
 
