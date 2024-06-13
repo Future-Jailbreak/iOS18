@@ -180,31 +180,31 @@ iOS 18 upgrades the Wallet app with a new 'tap to cash' feature for easier payme
 
 ## FAQ
 
-01. Can i Jailbreak iOS 18 Beta?
+01. `Can i Jailbreak iOS 18 Beta?`
 
-   Yes, you can jailbreak the iOS 18 beta just like other iOS versions, but it requires specific tools. However, beta versions are challenging because they are still being developed and frequently updated by Apple to fix bugs based on user feedback.
+Yes, you can jailbreak the iOS 18 beta just like other iOS versions, but it requires specific tools. However, beta versions are challenging because they are still being developed and frequently updated by Apple to fix bugs based on user feedback.
 
 Jailbreaking the iOS 18 beta comes with risks such as potential bugs, device instability, the chance of bricking your device, and exposure to malware.<br>
 
-02. What Jailbreaking Means for Users of iOS 18?
+02. `What Jailbreaking Means for Users of iOS 18?`
 
-   Jailbreaking your iPhone means bypassing Apple's restrictions to customize it extensively. In iOS 18, jailbreaking is easier with built-in tools. It's legal but voids warranties and weakens security, while offering benefits like installing third-party apps and customizing settings.
+Jailbreaking your iPhone means bypassing Apple's restrictions to customize it extensively. In iOS 18, jailbreaking is easier with built-in tools. It's legal but voids warranties and weakens security, while offering benefits like installing third-party apps and customizing settings.
 
-03. Is it possible to customize iOS 18 without jailbreaking?
+03. `Is it possible to customize iOS 18 without jailbreaking?`
   
-   Yes, you can explore iOS 18 customization options without jailbreaking by using tweaks and themes designed for the latest iOS versions.
+Yes, you can explore iOS 18 customization options without jailbreaking by using tweaks and themes designed for the latest iOS versions.
 
-04. How can I jailbreak iOS 18.0 beta?
+04. `How can I jailbreak iOS 18.0 beta?`
   
-  Discover effective methods to jailbreak the iOS 18 beta version with a straightforward, step-by-step approach.
+Discover effective methods to jailbreak the iOS 18 beta version with a straightforward, step-by-step approach.
 
-05. What does iOS 18 beta jailbreak entail?
+05. `What does iOS 18 beta jailbreak entail?`
   
-   Jailbreaking is like creating a new key to unlock doors to previously restricted areas of your device.
+Jailbreaking is like creating a new key to unlock doors to previously restricted areas of your device.
 
-06. Can you jailbreak an iOS 18 beta device?
+06. `Can you jailbreak an iOS 18 beta device?`
   
-    Unfortunately, as of now (2024), jailbreaking iOS 18 beta devices is not possible.
+Unfortunately, as of now (2024), jailbreaking iOS 18 beta devices is not possible.
 
 
 
