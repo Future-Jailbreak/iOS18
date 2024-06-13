@@ -12,6 +12,11 @@ As iOS 18 introduces a variety of new features and improvements aimed at enhanci
 
 ### Leading Jailbreak Solutions for iOS 18
 
+| Tables        | 
+| col 3 is      | 
+| col 2 is      | 
+| zebra stripes | 
+
 `Solution 01`: Redensa iTerminal Jailbreak
 
 `Solution 02`: Sileem Repo Extractor
