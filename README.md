@@ -12,6 +12,8 @@ As iOS 18 introduces a variety of new features and improvements aimed at enhanci
 
 ### Leading Jailbreak Solutions for iOS 18
 
+<div align="center">
+  
 |         |            |  
 | ------------- |:-------------:| 
 | `Solution 01` | Redensa iTerminal Jailbreak      | 
@@ -21,7 +23,7 @@ As iOS 18 introduces a variety of new features and improvements aimed at enhanci
 | `Solution 05` | Palerain Virtual Terminal Jailbreak      |     
 | `Solution 06` | Fugu17      |    
 
-
+</div>
 
 
 
