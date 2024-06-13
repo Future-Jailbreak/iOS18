@@ -20,8 +20,7 @@ As iOS 18 introduces a variety of new features and improvements aimed at enhanci
 | `Solution 02` | Sileem Repo Extractor      |       ⭐⭐⭐⭐⭐⭐⭐   7/10 |   
 | `Solution 03` | Checkra1n Mirror      | ⭐⭐⭐⭐⭐   5/10 |    
 | `Solution 04` | Unc0ver Black Edition      | ⭐⭐⭐⭐⭐⭐   6/10 |     
-| `Solution 05` | Palerain Virtual Terminal Jailbreak      | ⭐⭐⭐   3/10 |     
-| `Solution 06` | Fugu17      | ⭐⭐⭐⭐⭐   5/10 |    
+| `Solution 05` | Palerain Virtual Terminal Jailbreak      | ⭐⭐⭐   3/10 |         
 
 
 
@@ -37,7 +36,7 @@ Redensa is the world’s first iTerminal-based jailbreak solution for iOS 18. Up
 
 📥 <a href="#">Install Redensa iTerminal Jailbreak</a> 📥
 
-<div><br>
+</div><br>
 
 
 ## Solution 02 - <b>Sileem Repo Extractor</b>
@@ -50,21 +49,46 @@ Sileem Repo Extractor, now available in English and Japanese, introduces a new a
 
 📥 <a href="#">Install Sileem Repo Extractor</a> 📥
 
-<div><br>
+</div><br>
 
 
-## Solution 02 - <b>Sileem Repo Extractor</b>
+## Solution 03 - <b>Checkra1n Mirror</b>
 
-Sileem Repo Extractor, now available in English and Japanese, introduces a new app installer targeting iOS 18 and beyond. It simplifies jailbreaking on iPhones and iPads by providing easy access to apps like Cydia and Sileo, ensuring a easy installation process for users worldwide.
+Checkrain Mirror is a new jailbreak tool for iOS 18. It supports devices up to iOS 18.1 and installs a simplified version of Cydia using a unique method. Users generate a Checkrain Mirror code via CodeGen for installation, making it ideal for semi-jailbreaking iPhone 16 devices.
 
 <div align="center">
   
-![image](https://github.com/Future-Jailbreak/iOS18/assets/172568410/5c6921ef-a918-4c89-8c61-81b0a6c7cfc6)
+![image](https://github.com/Future-Jailbreak/iOS18/assets/172568410/8648e356-081a-49e9-a9c3-c03de5ec9860)
 
-📥 <a href="#">Install Sileem Repo Extractor</a> 📥
+📥 <a href="#">Install Checkra1n Mirror</a> 📥
 
-<div><br>
+</div><br>
 
+
+## Solution 04 - <b>Unc0ver Black Edition</b>
+
+Unc0ver Black Edition is tailored for jailbreaking iOS 16 to iOS 17.5 devices, enabling the installation of Cydia Dark. It serves as an alternative to Unc0ver's semi-tethered jailbreak, which supports iOS 11 to iOS 14.8. Unc0ver Black Edition extends compatibility to iOS 18, making it suitable for the latest iPhone 16 models as well.
+
+<div align="center">
+  
+![image](https://github.com/Future-Jailbreak/iOS18/assets/172568410/9ed668f2-887d-41c3-9a9f-72574a8b79ad)
+
+📥 <a href="#">Install Unc0ver Black Edition</a> 📥
+
+</div><br>
+
+
+## Solution 05 - <b>Palerain Virtual Terminal Jailbreak</b>
+
+Palera1n Virtual Terminal Jailbreak offers a web-based online method for jailbreaking the latest iOS devices. It introduces a novel approach by updating modified IPSW keys through the terminal. Compatible with iOS 16 to iOS 16.7.8, iOS 17 to iOS 17.5, and now extending to iOS 18, Palera1n is designed for the newest device models up to iOS 18.1. Following the jailbreak process, Palera1n supports installing Sileo for enhanced functionality.
+
+<div align="center">
+  
+![image](https://github.com/Future-Jailbreak/iOS18/assets/172568410/b394775a-aaeb-4291-9c20-896b9a36cd72)
+
+📥 <a href="#">Install Palerain Virtual Terminal Jailbreak</a> 📥
+
+</div><br>
 
 
 
