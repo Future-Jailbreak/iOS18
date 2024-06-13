@@ -29,4 +29,16 @@ Explore top iOS 18 jailbreak solutions Below, unlocking extra features and boost
 
 ## Solution 01 - <b>Redensa iTerminal Jailbreak</b>
 
+Redensa is the world’s first iTerminal-based jailbreak solution for iOS 18. Upon installation, it simultaneously installs two separate apps: Redensa and iTerminal. This innovative jailbreak solution uses unique methods for installing jailbreak apps, offering a fresh approach to enhancing your iOS 18 device.
+
+<div align="center">
+  
+![image](https://github.com/Future-Jailbreak/iOS18/assets/172568410/dac0d2da-30ee-413d-ae17-581d94655248)
+
+<div>
+
+
+
+
+
 
