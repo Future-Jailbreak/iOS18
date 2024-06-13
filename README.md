@@ -12,10 +12,11 @@ As iOS 18 introduces a variety of new features and improvements aimed at enhanci
 
 ### Leading Jailbreak Solutions for iOS 18
 
-
-| col 3 is      | right-aligned | 
-| col 2 is      | centered      |   
-| zebra stripes | are neat      |   
+| Tables        | Are           | Cool  |
+| ------------- |:-------------:| -----:|
+| col 3 is      | right-aligned | $1600 |
+| col 2 is      | centered      |   $12 |
+| zebra stripes | are neat      |    $1 |  
 
 `Solution 01`: Redensa iTerminal Jailbreak
 
