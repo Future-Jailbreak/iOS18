@@ -35,6 +35,8 @@ Redensa is the world’s first iTerminal-based jailbreak solution for iOS 18. Up
   
 ![image](https://github.com/Future-Jailbreak/iOS18/assets/172568410/dac0d2da-30ee-413d-ae17-581d94655248)
 
+📥 <a href="https://iospack.com/apps/bootstra-ai/">Install Redensa iTerminal Jailbreak</a> 📥
+
 <div>
 
 
