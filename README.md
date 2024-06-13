@@ -90,6 +90,124 @@ Palera1n Virtual Terminal Jailbreak offers a web-based online method for jailbre
 
 </div><br>
 
+## iOS 18 Compatibility
+
+iOS 18 will work on any iPhone newer than the iPhone XS, which means any iPhone with the A12 Bionic chip or newer. The iPhone 15 Pro and iPhone 15 Pro Max, both with the A17 Pro chipset, will have exclusive Apple Intelligence features. Here’s the list of iPhones that can use iOS 18:
+
+- iPhone 15 Plus
+- iPhone 15 Pro
+- iPhone 15 Pro Max
+- iPhone 14
+- iPhone 14 Plus
+- iPhone 14 Pro
+- iPhone 14 Pro Max
+- iPhone 13
+- iPhone 13 mini
+- iPhone 13 Pro
+- iPhone 13 Pro Max
+- iPhone 12
+- iPhone 12 mini
+- iPhone 12 Pro
+- iPhone 12 Pro Max
+- iPhone 11
+- iPhone 11 Pro
+- iPhone 11 Pro Max
+- iPhone XS
+- iPhone XS Max
+- iPhone XR
+- iPhone SE (2nd generation)
+- iPhone SE (3rd generation)
+
+  <br>
+
+## Exciting Features in iOS 18 Beta
+
+<div align="center">
+  
+![image](https://github.com/Future-Jailbreak/iOS18/assets/172568410/8daa7cc7-3901-40e2-beef-9bdf514d14ab)
+
+</div>
+
+### `Redesigned Photos app`
+
+iOS 18 will have a big redesign for the Photos app. It will combine photos into a single view with grids for photos and dates. This makes it easier to find specific photos, with filters for categories like screenshots and groups.
+
+![image](https://github.com/Future-Jailbreak/iOS18/assets/172568410/d6f83093-0d27-4267-a55a-3ec3c6c13e54)
+
+<br>
+
+
+### `Advanced Home Screen customization`
+
+In iOS 18, you can move app icons and widgets to new positions on your screen. This update lets you place them at the bottom or side, giving your wallpaper more space to show. iOS 18 also adds a dark mode for app icons and allows you to apply color tints.
+
+![image](https://github.com/Future-Jailbreak/iOS18/assets/172568410/f75d6dad-eef0-46d9-a840-b03bae9ddda2)
+
+<br>
+
+### `Control Center upgrades`
+
+iOS 18 is improving the Control Center by organizing functions into groups like Media and Home. You can now resize widgets in the Control Center and choose which widgets appear on the Lock Screen for the first time.
+
+![image](https://github.com/Future-Jailbreak/iOS18/assets/172568410/2ad6669a-a2c2-429d-aec2-bd7350eb40be)
+
+<br>
+
+
+### `Messages upgrades`
+
+In iOS 18, you can react to messages with any emoji and schedule messages to send later. The Messages app also adds new text formatting options like underline, strikethrough, and bold, along with effects such as ripple effects. iOS 18 supports RCS for richer messaging with non-Apple devices, and compatible iPhones can now send messages via satellite when other connections aren't available.
+
+![image](https://github.com/Future-Jailbreak/iOS18/assets/172568410/5b693bc5-8266-449b-99cd-5dc146c94947)
+
+<br>
+
+
+### `Wallet upgrades`
+
+iOS 18 upgrades the Wallet app with a new 'tap to cash' feature for easier payments to friends, along with a more dynamic design for event tickets.
+
+![image](https://github.com/Future-Jailbreak/iOS18/assets/172568410/d4a10607-1465-4a5e-9240-2b48667bcb8b)
+
+<br>
+
+
+### `Wallet upgrades`
+
+iOS 18 upgrades the Wallet app with a new 'tap to cash' feature for easier payments to friends, along with a more dynamic design for event tickets.
+
+<hr>
+
+## FAQ
+
+01. Can i Jailbreak iOS 18 Beta?
+
+   Yes, you can jailbreak the iOS 18 beta just like other iOS versions, but it requires specific tools. However, beta versions are challenging because they are still being developed and frequently updated by Apple to fix bugs based on user feedback.
+
+Jailbreaking the iOS 18 beta comes with risks such as potential bugs, device instability, the chance of bricking your device, and exposure to malware.<br>
+
+02. What Jailbreaking Means for Users of iOS 18?
+
+   Jailbreaking your iPhone means bypassing Apple's restrictions to customize it extensively. In iOS 18, jailbreaking is easier with built-in tools. It's legal but voids warranties and weakens security, while offering benefits like installing third-party apps and customizing settings.
+
+03. Is it possible to customize iOS 18 without jailbreaking?
+  
+   Yes, you can explore iOS 18 customization options without jailbreaking by using tweaks and themes designed for the latest iOS versions.
+
+04. How can I jailbreak iOS 18.0 beta?
+  
+  Discover effective methods to jailbreak the iOS 18 beta version with a straightforward, step-by-step approach.
+
+05. What does iOS 18 beta jailbreak entail?
+  
+   Jailbreaking is like creating a new key to unlock doors to previously restricted areas of your device.
+
+06. Can you jailbreak an iOS 18 beta device?
+  
+    Unfortunately, as of now (2024), jailbreaking iOS 18 beta devices is not possible.
+
+
+
 
 
 
