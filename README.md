@@ -12,10 +12,10 @@ As iOS 18 introduces a variety of new features and improvements aimed at enhanci
 
 ### Leading Jailbreak Solutions for iOS 18
 
-| Tables        | 
-| col 3 is      | 
-| col 2 is      | 
-| zebra stripes | 
+
+| col 3 is      | right-aligned | 
+| col 2 is      | centered      |   
+| zebra stripes | are neat      |   
 
 `Solution 01`: Redensa iTerminal Jailbreak
 
