@@ -25,6 +25,8 @@ As iOS 18 introduces a variety of new features and improvements aimed at enhanci
 
 </div>
 
-Explore top iOS 18 jailbreak solutions here, unlocking extra features and boosting performance beyond Apple's standard offerings.
+Explore top iOS 18 jailbreak solutions Below, unlocking extra features and boosting performance beyond Apple's standard offerings.
+
+## Solution 01 - <b>Redensa iTerminal Jailbreak</b>
 
 
