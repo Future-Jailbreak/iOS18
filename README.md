@@ -34,7 +34,7 @@ Redensa is the world’s first iTerminal-based jailbreak solution for iOS 18. Up
   
 ![image](https://github.com/Future-Jailbreak/iOS18/assets/172568410/dac0d2da-30ee-413d-ae17-581d94655248)
 
-📥 <a href="#">Install Redensa iTerminal Jailbreak</a> 📥
+📥 <a href="https://xookz.com/redansa/#redensa-btn">Install Redensa iTerminal Jailbreak</a> 📥
 
 </div><br>
 
@@ -47,7 +47,7 @@ Sileem Repo Extractor, now available in English and Japanese, introduces a new a
   
 ![image](https://github.com/Future-Jailbreak/iOS18/assets/172568410/5c6921ef-a918-4c89-8c61-81b0a6c7cfc6)
 
-📥 <a href="#">Install Sileem Repo Extractor</a> 📥
+📥 <a href="https://xookz.com/sileem/#btn">Install Sileem Repo Extractor</a> 📥
 
 </div><br>
 
@@ -60,7 +60,7 @@ Checkrain Mirror is a new jailbreak tool for iOS 18. It supports devices up to i
   
 ![image](https://github.com/Future-Jailbreak/iOS18/assets/172568410/8648e356-081a-49e9-a9c3-c03de5ec9860)
 
-📥 <a href="#">Install Checkra1n Mirror</a> 📥
+📥 <a href="https://pangu8.com/checkrain-mirror-guide/">Install Checkra1n Mirror</a> 📥
 
 </div><br>
 
@@ -73,7 +73,7 @@ Unc0ver Black Edition is tailored for jailbreaking iOS 16 to iOS 17.5 devices, e
   
 ![image](https://github.com/Future-Jailbreak/iOS18/assets/172568410/9ed668f2-887d-41c3-9a9f-72574a8b79ad)
 
-📥 <a href="#">Install Unc0ver Black Edition</a> 📥
+📥 <a href="https://xookz.com/uncover-black-edition/#btn">Install Unc0ver Black Edition</a> 📥
 
 </div><br>
 
@@ -86,7 +86,7 @@ Palera1n Virtual Terminal Jailbreak offers a web-based online method for jailbre
   
 ![image](https://github.com/Future-Jailbreak/iOS18/assets/172568410/b394775a-aaeb-4291-9c20-896b9a36cd72)
 
-📥 <a href="#">Install Palerain Virtual Terminal Jailbreak</a> 📥
+📥 <a href="https://xookz.com/palerain-jailbreak/#palera1nvirtual">Install Palerain Virtual Terminal Jailbreak</a> 📥
 
 </div><br>
 
