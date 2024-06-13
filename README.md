@@ -12,7 +12,7 @@ As iOS 18 introduces a variety of new features and improvements aimed at enhanci
 
 ### Leading Jailbreak Solutions for iOS 18
 
-|         |            | 
+
 | ------------- |:-------------:| 
 | `Solution 01` | are neat      | 
 | `Solution 01` | are neat      |   
