@@ -4,7 +4,7 @@
 
 </div>
 
-With the public release of iOS 18, many users will be eagerly searching for ways to jailbreak the new operating system to unlock additional features and enhance performance. The jailbreak community has always been active in developing tools that push beyond the capabilities provided by Apple, and iOS 18 is no exception.
+With the release of iOS 18 Beta, many users will be eagerly searching for ways to jailbreak the new operating system to unlock additional features and enhance performance. The jailbreak community has always been active in developing tools that push beyond the capabilities provided by Apple, and iOS 18 Beta is no exception.
 
 ## Anticipated iOS 18 Jailbreak Tools and Methods
 
