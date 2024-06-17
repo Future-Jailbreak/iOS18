@@ -1,6 +1,6 @@
 <div align="center">
 
-# iOS 18 Jailbreak: Current Status and Updates for 2024
+# iOS 18 Jailbreak: Newest Techniques [2024]
 
 </div>
 
