@@ -7,9 +7,13 @@
 If you're looking to jailbreak iOS 18 without using a computer, here are the top five tools to help you achieve that:
 
 1st Solution - Redensa iTerminal Jailbreak [⭐⭐⭐⭐⭐⭐⭐⭐⭐   9/10]
+
 2nd Solution - Sileem Repo Extractor [⭐⭐⭐⭐⭐⭐⭐   7/10]
+
 3rd Solution - Checkra1n Mirror [⭐⭐⭐⭐⭐   5/10]
+
 4th Solution - Unc0ver Black Edition [⭐⭐⭐⭐⭐⭐   6/10]
+
 5th Solution - Palerain Virtual Terminal Jailbreak [⭐⭐⭐   3/10]
   
 
