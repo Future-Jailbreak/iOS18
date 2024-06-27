@@ -17,6 +17,8 @@ If you're looking to jailbreak iOS 18 without using a computer, here are the top
 
 `5th Solution` - Palerain Virtual Terminal Jailbreak [⭐⭐⭐   3/10]
 
+`6th Solution` - Cowabunga Lite [⭐⭐⭐⭐⭐   3/10]
+
 These tools provide a range of options for jailbreaking iOS 18 without the need for a computer, offering flexibility and convenience. Always ensure to download these tools from reputable sources to avoid any security risks.
   
 Explore top iOS 18 jailbreak solutions Below, unlocking extra features and boosting performance beyond Apple's standard offerings.<br><br>
@@ -82,6 +84,18 @@ Palera1n Virtual Terminal Jailbreak offers a web-based online method for jailbre
 ![image](https://github.com/Future-Jailbreak/iOS18/assets/172568410/b394775a-aaeb-4291-9c20-896b9a36cd72)
 
 📥 <a href="https://xookz.com/palerain-jailbreak/#palera1nvirtual">Install Palerain Virtual Terminal Jailbreak</a> 📥
+
+</div><br>
+
+## `06` - <b>Cowabunga Lite</b>
+
+Cowabunga Lite now works as an alternative to jailbreaking on iOS 18 and offers a full set of customization tools for iOS 15 to iOS 17.5.1. It supports all iOS devices and lets you enjoy features like changing icon themes, adding new Siri commands in iOS 18, customizing the Control Center, changing the carrier name, and stopping OTA updates—all without needing to jailbreak your device.
+
+<div align="center">
+  
+![image](https://github.com/Future-Jailbreak/iOS18/assets/172568410/89b8766e-8d99-4c69-8a09-fdc3e7d13fdc)
+
+📥 <a href="https://cowabun.ga/">Install Cowabunga Lite</a> 📥
 
 </div><br>
 
