@@ -93,7 +93,7 @@ Cowabunga Lite now works as an alternative to jailbreaking on iOS 18 and offers 
 
 <div align="center">
   
-![image](https://github.com/Future-Jailbreak/iOS18/assets/172568410/89b8766e-8d99-4c69-8a09-fdc3e7d13fdc)
+![image](https://github.com/Future-Jailbreak/iOS18/assets/172568410/15cbdb7e-a3e4-44db-8127-6ff68b8ef719)
 
 📥 <a href="https://cowabun.ga/">Install Cowabunga Lite</a> 📥
 
